@@ -8,7 +8,6 @@ import (
     "crypto/rsa"
     "crypto/x509"
     "golang.org/x/crypto/blowfish"
-    "unix"
     "net"
     "log"
     "errors"
